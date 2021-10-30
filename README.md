@@ -5,6 +5,7 @@ Simple Coin module, Just Flip!
 ## Desctiption
 
 *coin* is a module that only helps generate random numbers between 0 and 1.
+
 It's simple and easy to use.
 
 
