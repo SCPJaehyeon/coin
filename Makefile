@@ -1,4 +1,4 @@
 init:
-	python setup.py bdist_wheel
+	python3 setup.py bdist_wheel
 test:
-	python -m unittest discover tests
+	python3 -m unittest discover tests
