@@ -1,5 +1,5 @@
 import unittest
-from coin import coin
+from src.coin import coin
 
 
 class CoinTest(unittest.TestCase):
