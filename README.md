@@ -1,6 +1,6 @@
+![coin](https://user-images.githubusercontent.com/50411472/139525970-2868d0ec-a158-4d03-b1a6-f0a3e180d46a.png)
 # coin
 Simple Coin module, Just Flip!
-![coin](https://user-images.githubusercontent.com/50411472/139525929-1aaf53f3-5a1a-4b35-befe-a17a3ab3d2d8.png)
 
 ## Desctiption
 
