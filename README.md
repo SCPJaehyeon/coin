@@ -1,7 +1,5 @@
-🪙🪙🪙🪙🪙🪙🪙🪙🪙
-
 # coin
-Simple Coin module, Just Flip!
+🪙 Simple Coin module, Just Flip!
 
 
 ## Desctiption
